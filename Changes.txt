@@ -1,0 +1,103 @@
+Documenting everything I've done with mod:
+
+Patching all recipes.
+
+1 - Holiday spirits cost to craft reduced to 25 pixels each - gives enough granularity to match the pricing of all recipes.
+
+2 - Big Present 500 pixels = 20 spirits
+
+3 - Decorated tree 1500 pixels = 60 spirits
+
+4 - Dreidel 125 pixels = 5 spirits
+
+5 - Giant bells 3000 pixels = 120 spirits
+
+6 - Giant bow 1 500 pixels = 20 spirits
+
+7 - Giant bow 2 750 pixels = 30 spirits
+
+8 - Giant santa 3000 pixels = 120 spirits
+
+9 - Giant snowflake 2000 pixels = 80 spirits
+
+10 - Gift monster box = 100 spirits cause of the loot drops
+
+11 - Gift monster small box = 100 spirits cause of the loot drops
+
+12 - Gold ball 1000 pixels = 40 spirits
+
+13 - Green candy cane 1 750 pixels = 30 spirits
+
+14 - Green candy cane 2 500 pixels = 20 spirits
+
+15 - Green candy cane 3 250 pixels = 10 spirits
+
+16 - Green gum drop 1 250 pixels = 10 spirits
+
+17 - Green gum drop 2 500 pixels = 20 spirits
+
+18 - Holiday candles 750 pixels = 30 spirits
+
+19 - Holiday lights 125 pixels = 5 spirits
+
+20 - Holiday pole 2000 pixels = 80 spirits
+
+21 - Holly 500 pixels = 20 spirits
+
+22 - Hot holiday chest 2500 pixels = 100 spirits
+
+23 - Hot holiday head 1500 pixels = 60 spirits
+
+24 - Hot holiday legs 1000 pixels = 40 spirits
+
+25 - Lollipop 1 2500 pixels = 100 spirits
+
+26 - Lollipop 2 500 pixels = 20 spirits
+
+27 - Menorah 750 pixels = 30 spirits
+
+28 - Mr claus back 50 pixels = 2 spirits - No change actually but I'll leave it here in case someone else wants to tinker with this
+
+29 - Mr claus chest 2500 pixels = 100 spirits
+
+30 - Mr claus head 1500 pixels = 60 spirits
+
+31 - Mr claus pants 1000 pixels = 40 spirits
+
+32 - Present 1 125 pixels = 5 spirits
+
+33 - Present 2 125 pixels = 5 spirits
+
+34 - Present 3 125 pixels = 5 spirits
+
+35 - Present 4 125 pixels = 5 spirits
+
+36 - Purple gum drop 1 250 pixels = 10 spirits
+
+37 - Purple gum drop 2 500 pixels = 20 spirits
+
+38 - Red ball 1000 pixels = 40 spirits
+
+39 - Red candy cane 1 750 pixels = 30 spirits
+
+40 - Red candy cane 2 500 pixels = 20 spirits
+
+41 - Red candy cane 3 250 pixels = 10 spirits
+
+42 - Red gum drop 1 250 pixels = 10 spirits
+
+43 - Red gum drop 2 500 pixels = 20 spirits
+
+44 - Scifi sleigh 5000 pixels = 200 spirits
+
+45 - Small bow 125 pixels = 5 spirits
+
+46 - Small holiday tree 250 pixels = 10 spirits
+
+47 - Small snowflake 500 pixels = 20 spirits
+
+48 - Stocking 1 250 pixels = 10 spirits
+
+49 - Stocking 2 250 pixels = 10 spirits
+
+50 - Undecorated tree 1000 pixels = 40 spirits

@@ -1,0 +1,7 @@
+[
+{
+    "op": "replace",
+    "path": "/input/0",
+    "value": { "item" : "holidayspirit", "count" : 200 }
+}
+]
